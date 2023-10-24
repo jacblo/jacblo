@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacblo
-- 👀 I’m interested in programming and 3d animation for the most part
+- 👀 I’m interested in computer science and 3d animation for the most part
 
 <!---
 jacblo/jacblo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
